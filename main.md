@@ -30,4 +30,3 @@
 * [Perion](http://perionapp.com)
     * [Perion Design](http://perionapp.com/perion-design)
 * [Sugar](/sugar)
-    * [Event-bus](/sugar/event-bus)
