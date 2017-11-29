@@ -8,8 +8,6 @@
 
 **I'm** working for KMD A/S doing DevOps
 
-**I'm** a bitcoin millionaire
-
 ### Languages
 **Programming**
 
