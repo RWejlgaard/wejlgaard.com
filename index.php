@@ -22,6 +22,8 @@ if ($handle) {
 }
 ?>
 </textarea>
+<br/>
+<p>Also available on <a href="rasmus7vf4rcmkjy.onion">rasmus7vf4rcmkjy.onion</a></p>
 
 <script src="http://<?php echo $_SERVER["HTTP_HOST"];?>/v/0.2/strapdown.js"></script>
 </body>
